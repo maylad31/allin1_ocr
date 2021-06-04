@@ -14,10 +14,10 @@ For using tesseract, you need to install tesseract:
 sudo apt install tesseract-ocr</br>
 sudo apt install libtesseract-dev</br>
 
-**Tested with python3.8.6 on linux**
+Tested with python3.8 on linux
 
 
-**Run:**</br>
+**How to run:**</br>
 python app.py --dir /home/mayank/test --ocr paddle </br>   (choose from 'paddle', 'doctr','tesseract') </br>
 
 Perfroms ocr on all the files in the directory and saves the results to corresponding text files. You can run on pdf, png, jepg, jpg.
