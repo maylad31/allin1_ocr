@@ -1,5 +1,5 @@
 # allin1_ocr
-Choose from paddleocr, teseract or doctr to perfrom OCR.
+Choose from paddleocr, python-doctr or tesseract to perfrom OCR.
 
 Installation:</br>
 
@@ -21,6 +21,10 @@ Run:</br>
 python app.py --dir /home/mayank/test --ocr paddle </br>   (choose from 'tesseract', 'paddle', 'doctr') </br>
 
 Perfroms ocr on all the files in the directory and saves the results to corresponding text files. You can run on pdf, png, jepg, jpg.
+
+If you ask me, paddleocr is fast and reasonable accurate. Doctr is good too.
+
+Always looking for opoortunities to enhance my skills, contact me at mynameladdha@gmail.com
 
 
 
