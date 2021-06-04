@@ -20,7 +20,7 @@ sudo apt install libtesseract-dev</br>
 Run:</br>
 python app.py --dir /home/mayank/test --ocr paddle </br>   (choose from 'tesseract', 'paddle', 'doctr') </br>
 
-Perfroms ocr on all the files in the directory and saves the results to corresponding text files. You can run of pdf, png, jepg, jpg.
+Perfroms ocr on all the files in the directory and saves the results to corresponding text files. You can run on pdf, png, jepg, jpg.
 
 
 
