@@ -18,7 +18,7 @@ Tested with python3.8 on linux
 
 
 **How to run:**</br>
-python app.py --dir /home/mayank/test --ocr paddle </br>   (choose from 'paddle', 'doctr','tesseract') </br>
+python app.py --dir directory path --ocr paddle </br>   (choose from 'paddle', 'doctr','tesseract') </br>
 
 Perfroms ocr on all the files in the directory and saves the results to corresponding text files. You can run on pdf, png, jpeg, jpg.
 
