@@ -22,7 +22,7 @@ python app.py --dir directory path --ocr paddle </br>   (choose from 'paddle', '
 
 Perfroms ocr on all the files in the directory and saves the results to corresponding text files. You can run on pdf, png, jpeg, jpg.
 
-If you ask me, paddleocr is fast and reasonable accurate. Doctr is good too.
+If you ask me, paddleocr is fast and reasonably accurate. Doctr is good too.
 
 You are welcome to add any other library.</br>
 
